@@ -2825,7 +2825,7 @@ a will still be 5.
 
 566
 00:40:39,020 --> 00:40:42,120
-因此在LET和DEFINE之间有这另一种代换模型
+尽管LET和DEFINE之间存在一些别的微妙区别
 So there's some other subtle differences between let and define,
 
 567
